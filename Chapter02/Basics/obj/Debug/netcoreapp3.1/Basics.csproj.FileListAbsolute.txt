@@ -1,0 +1,11 @@
+c:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.exe
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.deps.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.dev.json
+c:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.dll
+c:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.pdb
+c:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.csprojAssemblyReference.cache
+c:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfoInputs.cache
+c:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfo.cs
+c:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.dll
+c:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.pdb

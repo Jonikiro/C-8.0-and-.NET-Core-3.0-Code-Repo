@@ -1,0 +1,11 @@
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb

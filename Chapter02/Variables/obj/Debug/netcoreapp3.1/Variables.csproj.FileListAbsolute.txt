@@ -1,0 +1,11 @@
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Variables\obj\Debug\netcoreapp3.1\Variables.csprojAssemblyReference.cache
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Variables\obj\Debug\netcoreapp3.1\Variables.pdb

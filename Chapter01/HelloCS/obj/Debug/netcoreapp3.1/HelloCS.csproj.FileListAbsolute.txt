@@ -1,0 +1,11 @@
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.exe
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.deps.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.dev.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.dll
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.pdb
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csprojAssemblyReference.cache
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfoInputs.cache
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfo.cs
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.dll
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.pdb

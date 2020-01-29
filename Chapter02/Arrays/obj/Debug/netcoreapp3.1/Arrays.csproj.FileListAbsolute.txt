@@ -1,0 +1,11 @@
+c:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+c:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+c:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+c:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+c:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+c:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+c:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+c:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
