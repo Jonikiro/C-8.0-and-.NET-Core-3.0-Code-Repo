@@ -1,0 +1,11 @@
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.csprojAssemblyReference.cache
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.AssemblyInfoInputs.cache
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.AssemblyInfo.cs
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.exe
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.deps.json
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.runtimeconfig.json
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.runtimeconfig.dev.json
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.dll
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.pdb
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.dll
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.pdb
