@@ -1,0 +1,11 @@
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
