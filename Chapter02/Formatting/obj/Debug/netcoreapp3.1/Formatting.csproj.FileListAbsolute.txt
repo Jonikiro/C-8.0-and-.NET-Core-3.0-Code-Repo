@@ -1,0 +1,11 @@
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.exe
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.deps.json
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.json
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.dev.json
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.dll
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.pdb
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.csprojAssemblyReference.cache
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfoInputs.cache
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfo.cs
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.dll
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.pdb

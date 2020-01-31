@@ -1,0 +1,11 @@
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.exe
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.deps.json
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.runtimeconfig.json
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.runtimeconfig.dev.json
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.dll
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.pdb
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.csprojAssemblyReference.cache
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.AssemblyInfoInputs.cache
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.AssemblyInfo.cs
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.dll
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.pdb

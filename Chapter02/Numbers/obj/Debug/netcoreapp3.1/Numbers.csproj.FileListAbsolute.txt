@@ -9,3 +9,14 @@ C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Numbers\obj\Debug\ne
 C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
 C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
 C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb

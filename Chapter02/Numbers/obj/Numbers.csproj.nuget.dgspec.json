@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mcabr\\Downloads\\Programming\\C#\\Book Code\\Chapter02\\Numbers\\Numbers.csproj": {}
+    "E:\\Programming\\C#\\C-8.0-and-.NET-Core-3.0-Code-Repo\\Chapter02\\Numbers\\Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mcabr\\Downloads\\Programming\\C#\\Book Code\\Chapter02\\Numbers\\Numbers.csproj": {
+    "E:\\Programming\\C#\\C-8.0-and-.NET-Core-3.0-Code-Repo\\Chapter02\\Numbers\\Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mcabr\\Downloads\\Programming\\C#\\Book Code\\Chapter02\\Numbers\\Numbers.csproj",
+        "projectUniqueName": "E:\\Programming\\C#\\C-8.0-and-.NET-Core-3.0-Code-Repo\\Chapter02\\Numbers\\Numbers.csproj",
         "projectName": "Numbers",
-        "projectPath": "C:\\Users\\mcabr\\Downloads\\Programming\\C#\\Book Code\\Chapter02\\Numbers\\Numbers.csproj",
-        "packagesPath": "C:\\Users\\mcabr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mcabr\\Downloads\\Programming\\C#\\Book Code\\Chapter02\\Numbers\\obj\\",
+        "projectPath": "E:\\Programming\\C#\\C-8.0-and-.NET-Core-3.0-Code-Repo\\Chapter02\\Numbers\\Numbers.csproj",
+        "packagesPath": "C:\\Users\\Jonikiro\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\C#\\C-8.0-and-.NET-Core-3.0-Code-Repo\\Chapter02\\Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mcabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jonikiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
