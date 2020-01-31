@@ -9,3 +9,14 @@ E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\BitwiseAndShiftOpe
 E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.AssemblyInfo.cs
 E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.dll
 E:\Programming\C#\C-8.0-and-.NET-Core-3.0-Code-Repo\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.pdb
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.exe
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.deps.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.runtimeconfig.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.runtimeconfig.dev.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.dll
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.pdb
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.csprojAssemblyReference.cache
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.AssemblyInfo.cs
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.dll
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.pdb

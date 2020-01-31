@@ -8,25 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Jonikiro\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\mcabr\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming\\C#\\C-8.0-and-.NET-Core-3.0-Code-Repo\\Chapter03\\SelectionStatements\\SelectionStatements.csproj",
+      "projectUniqueName": "C:\\Users\\mcabr\\Downloads\\Programming\\C#\\Book Code\\Chapter03\\SelectionStatements\\SelectionStatements.csproj",
       "projectName": "SelectionStatements",
-      "projectPath": "E:\\Programming\\C#\\C-8.0-and-.NET-Core-3.0-Code-Repo\\Chapter03\\SelectionStatements\\SelectionStatements.csproj",
-      "packagesPath": "C:\\Users\\Jonikiro\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\C#\\C-8.0-and-.NET-Core-3.0-Code-Repo\\Chapter03\\SelectionStatements\\obj\\",
+      "projectPath": "C:\\Users\\mcabr\\Downloads\\Programming\\C#\\Book Code\\Chapter03\\SelectionStatements\\SelectionStatements.csproj",
+      "packagesPath": "C:\\Users\\mcabr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mcabr\\Downloads\\Programming\\C#\\Book Code\\Chapter03\\SelectionStatements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jonikiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mcabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
