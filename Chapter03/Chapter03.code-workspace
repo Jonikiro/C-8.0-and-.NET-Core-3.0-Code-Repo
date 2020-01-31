@@ -17,6 +17,21 @@
 		},
 		{
 			"path": "CastingConverting"
+		},
+		{
+			"path": "HandlingExceptions"
+		},
+		{
+			"path": "CheckingForOverflow"
+		},
+		{
+			"path": "Exercise02"
+		},
+		{
+			"path": "FizzBuzz"
+		},
+		{
+			"path": "Exercise03"
 		}
 	]
 }

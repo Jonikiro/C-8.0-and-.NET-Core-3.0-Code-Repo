@@ -1,0 +1,11 @@
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.csprojAssemblyReference.cache
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.AssemblyInfoInputs.cache
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.AssemblyInfo.cs
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.exe
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.deps.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.runtimeconfig.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.runtimeconfig.dev.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.dll
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.pdb
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.dll
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.pdb

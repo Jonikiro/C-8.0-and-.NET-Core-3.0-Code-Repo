@@ -1,0 +1,11 @@
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\mcabr\Downloads\Programming\C#\Book Code\Chapter03\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
